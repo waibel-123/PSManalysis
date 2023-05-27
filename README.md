@@ -1,5 +1,5 @@
 # Workflow for peptide and chemical analysis of LC-MS/MS queries (spectra)
-This workflow is for classifying and extracting spectral informaton from LC-MS/MS queries from Mascot report.
+This workflow is for classifying and extracting spectral informatoon from LC-MS/MS queries from Mascot report.
 In particular, those queries which do not result in an accepted hit are of interest.
 
 ![Data processing workflow](Figure_S2_Data_processing_workflow_Github.pdf)
@@ -53,7 +53,7 @@ re-do export same as above except in 6) tick box for “Display non-significant ma
 8. In this step, select protein family contaminants instead 
 9. Filter for queries with pep_expect > significance threshold
 10. Copy and paste query number with leading column entry for "Anchored_contams"
-11. Loop up information on queries as in step 11 above
+11. Look up information on queries as in step 11 above
 12. Save file as .csv
 
 ## Step 3) Remove Anchored IDs from Proto-Unassigned in R script "Remove.R"
