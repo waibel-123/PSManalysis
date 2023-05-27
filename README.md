@@ -1,5 +1,5 @@
 # Workflow for peptide and chemical analysis of LC-MS/MS queries (spectra)
-This workflow is for classifying and extracting spectral informatoon from LC-MS/MS queries from Mascot report.
+This workflow is for classifying and extracting spectral information from LC-MS/MS queries from Mascot report.
 In particular, those queries which do not result in an accepted hit are of interest.
 
 ![Data processing workflow](Figure_S2_Data_processing_workflow_Github.pdf)
