@@ -68,4 +68,4 @@ Summary statistics are done in R script "Summary_stats.R"
 1. Execute "PrepMS2modulo.R" for each datafile and save .csv files
 
 ## Step 6) Modulo analysis (Modulo base 1)
-1. Execute scripts forked to site as detailed in manuscript
+1. Execute scripts "GenerateModuloPlots.py" in folder Step6Modulo1
