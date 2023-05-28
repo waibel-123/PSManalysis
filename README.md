@@ -67,5 +67,5 @@ Summary statistics are done in R script "Summary_stats.R"
 ## Step 5) Prepare MS2 ions as m/z list for Mass defect (Modulo 1) analysis
 1. Execute "PrepMS2modulo.R" for each datafile and save .csv files
 
-## Step 6) Mass defect analysis (Modulo 1)
+## Step 6) Modulo analysis (Modulo base 1)
 1. Execute scripts forked to site as detailed in manuscript
